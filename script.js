@@ -136,8 +136,8 @@ const projectsData = {
             "assets/images/comp_hq_3.png",
             "assets/images/comp_hq_4.png",
             "assets/images/comp_hq_5.png",
-            "assets/images/comp_hq_6.png",
-            "assets/images/comp_hq_7.png"
+            "assets/images/comp_hq_6.jpg",
+            "assets/images/comp_hq_7.jpg"
         ]
     },
     miscellaneous: {
