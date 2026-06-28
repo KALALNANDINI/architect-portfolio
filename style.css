@@ -1161,9 +1161,14 @@ a {
 
 /* Mobile Fallback: Hide side cards, show only center card */
 @media (max-width: 768px) {
+    .achievements-3d-carousel {
+        height: 480px;
+    }
     .achievement-card {
         width: 90%;
         margin-left: -45%;
+        height: 420px;
+        margin-top: -210px;
         flex-direction: column;
         padding: 1.5rem;
     }
